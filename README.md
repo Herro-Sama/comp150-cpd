@@ -19,7 +19,8 @@ After spending time initally setting up the version control it became much easie
 
 ## Week 5
 Tinkering Graphics
-DUring my work with Tinkering graphics I had a lot of difficulty initally when it came to creating a pixel array that I could then use to edit colours in an image, I have since figured out how to delete a pixel array which has removed this error.
+During my work with Tinkering graphics I had a lot of difficulty initally when it came to creating a pixel array that I could then use to edit colours in an image, I have since figured out how to delete a pixel array which has removed this error.
+
 ## Week 6
 Scholary Writing
 Getting to grips with scholary writing and understanding the key difference between scholary writing and common writing I feel will take time. I will continue to keep in mind the key difference however when going forward with my work.
@@ -27,3 +28,11 @@ Getting to grips with scholary writing and understanding the key difference betw
 ## Week 7
 Introduction to data structures
 I have found that data structures were quite simple and yet also very complex, I have an understanding of how it works but I'm still ignorant of how to properly apply data structures into my code effectively.
+
+## Week 8
+Tinkering Audio 1
+I although I was able to get the task working I don't really have much of an uncerstanding of how the code is actually working, I will continue to think on this until I understand it in more detail.
+
+## Week 9
+The programming Pipeling
+I have had considerable difficulty in understanding this weeks worksheet, I have yet to overcome this challenge but wil keep myself posted if I do.
