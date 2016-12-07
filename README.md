@@ -1,5 +1,8 @@
 # comp150-cpd
 
+## Summary of Current Experience
+So far my time I feel has been beneficial in helping me develop a good understanding of many of the core elements required to be a productive and beneficial member of a games development team. I have yet to decide upon what I will do when I leave University as I would like to keep my options open, but I plan to develop skills allowing me to work potentially either solo or within a small team but also to build on my knowledge of how different fields contribute to the overall production of a game. It's become apparent to me that I will need to work on further expanding my current knowledge of coding practices and terminologies along with building on my team working ability to ensure that I can work within a games company comprised of larger teams. I have also noticed that I am ignorant of the various works that have been put forward within the games and computing fields and I would like to further increase my knowledge of these areas to ensure that my work is still innovative or efficient.
+
 ## Week 1
 Lego Robot Olympics
 Working with my team was quite easy, however our ability to translate from various different hardware configurations was what I believe caused our problems during the actual challenge. In the future considering the hardware in greater detail will help resolve this issue.
