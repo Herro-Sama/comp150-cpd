@@ -44,3 +44,7 @@ This is going to be difficult for me as I am quite used to working within Python
 ## Week 11
 The work with Tinkering Audio
 Tinkering audio is still very difficult however, some progress is being made. I still need to look into how sound works to get a better understanding of what the code is doing as I feel this knowledge will help me to complete my work for the deadline.
+
+## Weel 12
+Managing work
+Week 12 is hopefully an anomalous and that their will be less points in time with so many deadlines and other activites.
