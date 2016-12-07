@@ -36,3 +36,11 @@ I although I was able to get the task working I don't really have much of an unc
 ## Week 9
 The programming Pipeling
 I have had considerable difficulty in understanding this weeks worksheet, I have yet to overcome this challenge but wil keep myself posted if I do.
+
+## Week 10
+The transition to C++
+This is going to be difficult for me as I am quite used to working within Python and the Pycharm IDE, I will begin looking at tutorials and creating small projects after this semester to be ready for when I full begin working in C++
+
+## Week 11
+The work with Tinkering Audio
+Tinkering audio is still very difficult however, some progress is being made. I still need to look into how sound works to get a better understanding of what the code is doing as I feel this knowledge will help me to complete my work for the deadline.
