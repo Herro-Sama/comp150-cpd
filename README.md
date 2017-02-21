@@ -48,6 +48,47 @@ This is going to be difficult for me as I am quite used to working within Python
 The work with Tinkering Audio
 Tinkering audio is still very difficult however, some progress is being made. I still need to look into how sound works to get a better understanding of what the code is doing as I feel this knowledge will help me to complete my work for the deadline.
 
-## Weel 12
+## Week 12
 Managing work
 Week 12 is hopefully an anomalous and that their will be less points in time with so many deadlines and other activites.
+
+
+#Semester 2
+
+## Week 1
+Getting Caught up with my group.
+I found that I had fallen behind in my group project, and that I had a lot of catching up to do.
+
+## Week 2
+Getting Used to Unreal Blueprints was an interesting challenge as I wasn't totally used to the visual approach of coding or the quirks associated with the use of Blueprints in Unreal.
+
+## Week 3
+Object Oriented Programming
+After a long lecture about object oriented programming, it took me some more time to fully get to grips with the terms and to wrap my head around the more complex ideas.
+
+## Week 4
+
+
+## Week 5
+
+
+## Week 6
+
+
+## Week 7
+
+
+## Week 8
+
+
+## Week 9
+
+
+## Week 10
+
+
+## Week 11
+
+
+## Week 12
+
