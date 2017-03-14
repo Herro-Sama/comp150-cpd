@@ -64,26 +64,38 @@ Getting Used to Unreal Blueprints was an interesting challenge as I wasn't total
 
 ## Week 3
 Object Oriented Programming
+
+
 After a long lecture about object oriented programming, it took me some more time to fully get to grips with the terms and to wrap my head around the more complex ideas.
 
 ## Week 4
 Variable Time-steps
+
+
 I spent sometime looking into variable time-stepping and interpolation after one of the lectures as I found it although clear a little confusing and spent some time working on that.
 
 ## Week 5
 Serialization
+
+
 Save states were an interesting topic to cover and although I still struggle a little with understanding how to make it work it, is definitely something I will work on during my free time.
 
 ## Week 6
 servers?!?
+
+
 I have discovered that servers are really, confusing so during my time off I will be looking into how to set up and get a server working properly so I am ready for 2nd year when I will need to know this.
 
 ## Week 7
 Servers II: Revenge of the Servers
+
+
 Servers are still confusing and wierd, however I have found that I can code SQL in a somewhat reliable manner. So that's something.
 
 ## Week 8
 Motivation
+
+
 I have found that my motivation during this week has really dipped, and it has let my work slip into a state of almost disrepair. I'm not entirely sure what can be done to improve this. So I have taken my time and applied it towards other assignments to try and give my self a fresh task to work on, hopefully allowing me to be productive again.
 
 ## Week 9
